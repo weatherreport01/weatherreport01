@@ -1,8 +1,8 @@
 ## Hey there!
 My name's JB and here's a bit about me:
-- Studying Computer Science at University.
+- Studying Computer Science at university.
 - I like creating projects in Java and Python
-- Currently learning C++ (Projects coming in the future™️)
+- Currently learning C++ (projects coming in the future™️)
 
 ### Projects Planned:
 - Weather reporting system with GUI and time alerts (Java)
