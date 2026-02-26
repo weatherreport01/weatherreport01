@@ -5,9 +5,9 @@ My name's JB and here's a bit about me:
 - Currently learning C++ (projects coming in the future™️)
 
 ### Projects Planned:
-- Weather reporting system with GUI and time alerts (Java)
-- Functional music library with GUI (Java)
-- Mahjong with online support (Java or Python)
+- Weather reporting system with GUI and time alerts (Springboot backend)
+- Functional music library with GUI (Springboot backend)
+- Mahjong with online support (Java or C++)
 - E2EE messaging platform with self hosting support
 - Basic game (C++ and Unreal Engine)
 
