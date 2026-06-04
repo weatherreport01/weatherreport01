@@ -2,14 +2,8 @@
 My name's JB and here's a bit about me:
 - Studying Computer Science at university.
 - I like creating projects in Java and Python
-- Currently learning C++ (projects coming in the future™️)
-
-### Projects Planned:
-- Weather reporting system with GUI and time alerts (Java)
-- Functional music library with GUI (JavaFX) - currently learning
-- Mahjong with online support (Java or C++)
-- Discord E2E program
-- Basic game (C++ and Unreal Engine)
+- Currently working on my first Spring Boot project
+- Planning to learn Unity and C#
 
 
 <h3 align="left">Languages:</h3>
